@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include jobwork_itc04_gst *.css
+recursive-include jobwork_itc04_gst *.csv
+recursive-include jobwork_itc04_gst *.html
+recursive-include jobwork_itc04_gst *.ico
+recursive-include jobwork_itc04_gst *.js
+recursive-include jobwork_itc04_gst *.json
+recursive-include jobwork_itc04_gst *.md
+recursive-include jobwork_itc04_gst *.png
+recursive-include jobwork_itc04_gst *.py
+recursive-include jobwork_itc04_gst *.svg
+recursive-include jobwork_itc04_gst *.txt
+recursive-exclude jobwork_itc04_gst *.pyc

@@ -1,0 +1,11 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "erpnext-jobwork-itc04-gst-reconciler"
+authors = [{name = "Shyam Kumar Pandey", email = "shyamkumarpandey1104@gmail.com"}]
+description = "ERPNext Subcontracting Job Work & CGST Sec 143 ITC-04 Reconciler: 1-Year Aging & Deemed Sale Penalty Guard."
+version = "1.0.0"
+readme = "README.md"
+classifiers = ["Framework :: Frappe"]
